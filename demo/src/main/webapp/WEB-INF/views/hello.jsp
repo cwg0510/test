@@ -27,7 +27,8 @@ if (application.getAttribute("Counter") != null) {
 <style>
 .bg {
 	background-image:
-		url("${pageContext.request.contextPath}/assets/img/desk.jpg");
+		/* url("${pageContext.request.contextPath}/assets/img/desk.jpg"); */
+		url("images/img1.webp");
 	background-size: cover;
 }
 
