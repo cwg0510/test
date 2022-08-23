@@ -9,5 +9,5 @@ public class TestController {
 		@GetMapping("/hello")
 			public String login() {
 				return "/hello";
-			}
+			}  
 }
